@@ -91,3 +91,17 @@ Screenshots included:
 # Conclusion
 
 This project successfully demonstrated the deployment and management of a Linux cloud server environment using Ubuntu and Nginx. DNS configuration, HTTPS security implementation, and server administration skills were developed through the completion of this project.
+# ICT171 Cloud Server Project
+
+## Student Information
+- Name: Tasfia Tarique
+- Unit: ICT171 Introduction to Server Environments and Architectures
+
+## Project Overview
+This project demonstrates the deployment of a cloud-hosted Ubuntu Linux web server using Nginx and HTTPS.
+
+## Website Link
+https://tasfiaict171.xyz
+
+## GitHub Repository
+https://github.com/tasfiatarique1234-star/ict171-cloud-server
