@@ -37,6 +37,15 @@ The following tasks were completed:
 - Configured DNS A records
 - Installed SSL certificates using Certbot
 - Enabled HTTPS secure communication
+- DNS Configuration
+
+Domain Name:
+tasfiaict171.xyz
+
+A Record:
+151.158.219.97
+
+The DNS A Record was configured in Namecheap to point the domain name to the public IP address of the Ubuntu cloud server.
 
 ---
 
