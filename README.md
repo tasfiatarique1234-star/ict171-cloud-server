@@ -85,6 +85,23 @@ Screenshots included:
 - Custom webpage
 - Domain configuration
 - HTTPS SSL configuration
+- Script
+#!/bin/bash
+
+# ICT171 Server Health Check Script
+# This script checks whether Nginx is running and whether the website responds over HTTPS.
+
+echo "Checking Nginx service status..."
+systemctl is-active nginx
+
+echo "Checking website HTTPS response..."
+curl -I https://tasfiaict171.xyz
+
+echo "Server health check completed."
+Script Explanation
+
+This Bash script performs a basic server health check. It verifies whether the Nginx web server is active and checks if the website is accessible through HTTPS. The script helps administrators quickly confirm that the server and website are operating correctly and can assist with troubleshooting if issues occur.
+
 
 ---
 
