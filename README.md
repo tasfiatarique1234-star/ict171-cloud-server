@@ -42,6 +42,12 @@ The following tasks were completed:
 
 # Commands Used
 
+SSH Connection
+
+ssh -i 35674474.key ubuntu@151.158.219.97
+
+This command was used to securely connect to the Ubuntu cloud server for administration and configuration tasks.
+
 ## System Update
 
 ```bash
