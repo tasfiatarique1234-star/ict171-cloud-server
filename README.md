@@ -109,7 +109,38 @@ Screenshots included:
 - Domain configuration
 - HTTPS SSL configuration
 ## Script
-#!/bin/bash # ICT171 Server Health Check Script # This script checks whether Nginx is running and whether the website is reachable through HTTPS. echo "Checking Nginx service..." if systemctl is-active --quiet nginx then echo "Nginx is running." else echo "Nginx is not running." fi echo "" echo "Checking website availability..." if curl -s https://tasfiaict171.xyz > /dev/null then echo "Website is reachable." else echo "Website is not reachable." fi echo "" echo "Server health check completed."
+```
+#!/bin/bash
+
+# ICT171 Server Health Check Script
+# This script checks whether Nginx is running and whether the website is reachable through HTTPS.
+
+echo "Checking Nginx service..."
+
+if systemctl is-active --quiet nginx
+then
+    echo "Nginx is running."
+else
+    echo "Nginx is not running."
+fi
+
+echo ""
+
+echo "Checking website availability..."
+
+if curl -s https://tasfiaict171.xyz > /dev/null
+then
+    echo "Website is reachable."
+else
+    echo "Website is not reachable."
+fi
+
+echo ""
+
+echo "Server health check completed."
+```
+
+
 
 
 
