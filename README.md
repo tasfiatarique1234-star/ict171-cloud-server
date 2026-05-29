@@ -110,7 +110,6 @@ Screenshots included:
 - HTTPS SSL configuration
 
 ## Script
-```bash
 
 #!/bin/bash
 
