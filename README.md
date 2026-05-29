@@ -87,7 +87,6 @@ Screenshots included:
 - HTTPS SSL configuration
   ```bash
 Script
-
 #!/bin/bash
 
 # ICT171 Server Health Check Script
@@ -98,6 +97,7 @@ echo "Checking Nginx service status..."
 systemctl is-active nginx
 
 echo "Checking website HTTPS response..."
+
 curl -I https://tasfiaict171.xyz
 
 echo "Server health check completed."
