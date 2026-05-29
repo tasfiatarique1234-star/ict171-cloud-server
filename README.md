@@ -126,10 +126,17 @@ curl -I https://tasfiaict171.xyz
 
 echo "Server health check completed."
 
-Script Explanation
+## Script Explanation
 
 This Bash script performs a basic server health check. It verifies whether the Nginx web server is active and checks if the website is accessible through HTTPS. The script helps administrators quickly confirm that the server and website are operating correctly and can assist with troubleshooting if issues occur.
 
+## Script Verification
+
+The website used to verify the script output can be accessed at:
+
+https://tasfiaict171.xyz
+
+The script checks that the website is reachable over HTTPS and confirms that the Nginx service is operational.
 
 ---
 
