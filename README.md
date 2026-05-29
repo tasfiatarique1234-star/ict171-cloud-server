@@ -90,10 +90,11 @@ Script
 
 #!/bin/bash
 
-ICT171 Server Health Check Script
-This script checks whether Nginx is running and whether the website responds over HTTPS.
+# ICT171 Server Health Check Script
+# This script checks whether Nginx is running and whether the website responds over HTTPS.
 
 echo "Checking Nginx service status..."
+
 systemctl is-active nginx
 
 echo "Checking website HTTPS response..."
