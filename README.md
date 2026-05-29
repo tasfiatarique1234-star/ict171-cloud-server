@@ -37,7 +37,8 @@ The following tasks were completed:
 - Configured DNS A records
 - Installed SSL certificates using Certbot
 - Enabled HTTPS secure communication
-- DNS Configuration
+
+DNS Configuration
 
 Domain Name:
 tasfiaict171.xyz
