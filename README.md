@@ -108,9 +108,9 @@ Screenshots included:
 - Custom webpage
 - Domain configuration
 - HTTPS SSL configuration
+
+## Script
 ```bash
-Script
-```
 
 #!/bin/bash
 
