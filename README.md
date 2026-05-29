@@ -113,18 +113,30 @@ Screenshots included:
 
 #!/bin/bash
 
-# ICT171 Server Health Check Script
-# This script checks whether Nginx is running and whether the website responds over HTTPS.
+echo "Checking Nginx service..."
 
-echo "Checking Nginx service status..."
+if systemctl is-active --quiet nginx
+then
+    echo "Nginx is running."
+else
+    echo "Nginx is not running."
+fi
 
-systemctl is-active nginx
+echo ""
 
-echo "Checking website HTTPS response..."
+echo "Checking website availability..."
 
-curl -I https://tasfiaict171.xyz
+if curl -s https://tasfiaict171.xyz > /dev/null
+then
+    echo "Website is reachable."
+else
+    echo "Website is not reachable."
+fi
+
+echo ""
 
 echo "Server health check completed."
+
 
 ## Script Explanation
 
