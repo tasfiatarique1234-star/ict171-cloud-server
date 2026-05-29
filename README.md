@@ -85,6 +85,7 @@ Screenshots included:
 - Custom webpage
 - Domain configuration
 - HTTPS SSL configuration
+  ```bash
 Script
 
 #!/bin/bash
