@@ -38,7 +38,7 @@ The following tasks were completed:
 - Connected to the Ubuntu server using SSH
 - Updated Ubuntu system packages
 - Installed and configured Nginx
-- Created a custom HTML webpage
+- Created a custom multi-page HTML webpage
 - Registered and configured a custom domain
 - Configured DNS A records
 - Installed SSL certificates using Certbot
