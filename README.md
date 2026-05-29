@@ -108,10 +108,11 @@ Screenshots included:
 - Custom webpage
 - Domain configuration
 - HTTPS SSL configuration
-
-## Script
-
+Script
 #!/bin/bash
+
+# ICT171 Server Health Check Script
+# This script checks whether Nginx is running and whether the website is reachable through HTTPS.
 
 echo "Checking Nginx service..."
 
