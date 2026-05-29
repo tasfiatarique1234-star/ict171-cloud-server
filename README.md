@@ -53,6 +53,17 @@ A Record:
 151.158.219.97
 
 The DNS A Record was configured in Namecheap to point the domain name to the public IP address of the Ubuntu cloud server.
+## Website Pages
+
+The website contains multiple pages to provide project information and server details:
+
+-Home Page (index.html)
+-About This Project (about.html)
+-Server Status (status.html)
+-Project Information (project.html)
+
+These pages demonstrate basic website navigation and provide information about the cloud server deployment.
+
 
 ---
 
@@ -103,11 +114,15 @@ https://tasfiaict171.xyz
 # Screenshots
 
 Screenshots included:
-- SSH connection to server
+-SSH connection to server
 - Nginx installation
-- Custom webpage
+- Custom homepage
+- About This Project page
+- Server Status page
+- Project Information page
 - Domain configuration
 - HTTPS SSL configuration
+  
 ## Script
 ```
 #!/bin/bash
