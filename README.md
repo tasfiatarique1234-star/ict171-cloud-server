@@ -85,8 +85,10 @@ Screenshots included:
 - Custom webpage
 - Domain configuration
 - HTTPS SSL configuration
-  ```bash
+```bash
 Script
+```
+
 #!/bin/bash
 
 # ICT171 Server Health Check Script
