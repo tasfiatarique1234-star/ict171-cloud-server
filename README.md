@@ -21,6 +21,7 @@ This project demonstrates the deployment and configuration of a cloud-hosted Ubu
 | Domain Name | tasfiaict171.xyz |
 | SSL Certificate | Let's Encrypt |
 | Cloud Environment | ICT171 Private Cloud |
+| Public IP Address | | 151.158.219.97 |
 
 ---
 
