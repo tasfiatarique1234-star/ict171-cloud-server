@@ -57,10 +57,13 @@ The DNS A Record was configured in Namecheap to point the domain name to the pub
 
 The website contains multiple pages to provide project information and server details:
 
--Home Page (index.html)
--About This Project (about.html)
--Server Status (status.html)
--Project Information (project.html)
+Home Page (index.html)
+
+About This Project (about.html)
+
+Server Status (status.html)
+
+Project Information (project.html)
 
 These pages demonstrate basic website navigation and provide information about the cloud server deployment.
 
