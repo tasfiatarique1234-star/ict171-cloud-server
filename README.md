@@ -156,6 +156,19 @@ The website used to verify the script output can be accessed at:
 https://tasfiaict171.xyz
 
 The script checks that the website is reachable over HTTPS and confirms that the Nginx service is operational.
+## Script Output
+
+Example successful output:
+
+Checking Nginx service...
+Nginx is running.
+
+Checking website availability...
+Website is reachable.
+
+Server health check completed.
+
+
 
 ---
 
