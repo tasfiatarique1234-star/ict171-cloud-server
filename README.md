@@ -4,6 +4,11 @@
 - Name: Tasfia Tarique
 - Student Number: 35674474
 - Unit: ICT171 Introduction to Server Environments and Architectures
+## Server Access Information
+- Public IP Address: 151.158.219.97
+- DNS Entry: tasfiaict171.xyz
+- Website Link: https://tasfiaict171.xyz
+- GitHub Repository: https://github.com/tasfiatarique1234-star/ict171-cloud-server
 
 ---
 
