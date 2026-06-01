@@ -194,10 +194,14 @@ Server health check completed.
 
 This project successfully demonstrated the deployment and management of a Linux cloud server environment using Ubuntu and Nginx. DNS configuration, HTTPS security implementation, and server administration skills were developed through the completion of this project.
 ## References
+Let's Encrypt. (n.d.). Documentation. Retrieved from https://letsencrypt.org/docs/
+Everything Curl. (n.d.). Curl documentation. Retrieved from https://everything.curl.dev/
+Freedesktop.org. (n.d.). systemctl documentation. Retrieved from https://www.freedesktop.org/software/systemd/man/latest/systemctl.html
+Nginx. (n.d.). Installing NGINX. Retrieved from https://nginx.org/en/docs/install.html
+SCH-IT-MurdochUni. (2025). DNS configuration lab. GitHub. Retrieved from https://github.com/SCH-IT-MurdochUni/NetworkingLabs/blob/main/Server_Environments_and_Architectures/dns.md
 
-Documentation - Let’s Encrypt. (n.d.). Letsencrypt.org. https://letsencrypt.org/docs/
 
-Installing nginx. (n.d.). Nginx.org. https://nginx.org/en/docs/install.html
 
-SCH-IT-MurdochUni. (2025). NetworkingLabs/Server_Environments_and_Architectures/dns.md at main · SCH-IT-MurdochUni/NetworkingLabs. GitHub. https://github.com/SCH-IT-MurdochUni/NetworkingLabs/blob/main/Server_Environments_and_Architectures/dns.md
+
+
 
